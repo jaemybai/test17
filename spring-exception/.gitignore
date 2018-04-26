@@ -3,3 +3,4 @@ target/
 *.iml
 *.class
 log4j.xml
+log4j2.xml
